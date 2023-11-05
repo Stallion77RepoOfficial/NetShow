@@ -5,9 +5,8 @@ NetShow, bir Python betiğidir. Kullanıcının bilgisayarının ağ bilgilerini
 ## Gereksinimler
 - `speedtest-cli` Python modülü
 
-## Kurulum
+## Kullanım
 
 1. Bu repoyu klonlayın veya indirin.
-2. `speedtest-cli` Python modülünü yükleyin. Terminalde aşağıdaki komutu çalıştırabilirsiniz:
-
-`pip3 install speedtest-cli`
+2. `pip3 install speedtest-cli` komutunu kullanarak gerekli modülleri yükleyin.
+3. Betiği çalıştırın.
