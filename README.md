@@ -1,13 +1,13 @@
 # NetShow
 
-Bu Python betiği, kullanıcının bilgisayarının ağ bilgilerini alır ve bir internet hız testi gerçekleştirir. 
-Bilgisayarın IP adresi, MAC adresi, indirme hızı ve yükleme hızını alır ve yazdırır.
+NetShow, bir Python betiğidir. Kullanıcının bilgisayarının ağ bilgilerini alır ve bir internet hız testi gerçekleştirir. Bilgisayarın IP adresi, MAC adresi, indirme hızı ve yükleme hızını alır ve yazdırır.
 
-# Bu betiği çalıştırmadan önce, speedtest-cli modülünü yüklemeniz gerekmektedir. Terminalde aşağıdaki komutu çalıştırarak yükleyebilirsiniz:
+## Gereksinimler
+- `speedtest-cli` Python modülü
 
-pip3 install speedtest-cli
+## Kurulum
 
-# Betiği dosyanın bulunduğu dizinde bir terminal açın ve aşağıdaki komutu çalıştırın:
+1. Bu repoyu klonlayın veya indirin.
+2. `speedtest-cli` Python modülünü yükleyin. Terminalde aşağıdaki komutu çalıştırabilirsiniz:
 
-python3 NetShow.py
-
+`pip3 install speedtest-cli`
