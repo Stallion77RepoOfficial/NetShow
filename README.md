@@ -1,4 +1,4 @@
-# NetShow
+## NetShow
 
 NetShow, bir Python betiğidir. Kullanıcının bilgisayarının ağ bilgilerini alır ve bir internet hız testi gerçekleştirir. Bilgisayarın IP adresi, MAC adresi, indirme hızı ve yükleme hızını alır ve yazdırır.
 
